@@ -16,5 +16,5 @@ no-log-ix-name = []
 cpi = ["no-entrypoint"]
 
 [dependencies]
-anchor-gen = { git="https://github.com/zilayo/anchor-gen", rev = "9bd5f9d" }
+anchor-gen = { git="https://github.com/zilayo/anchor-gen", rev = "be24bff" }
 anchor-lang = { version = "0.28.0" }
