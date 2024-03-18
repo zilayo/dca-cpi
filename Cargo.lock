@@ -140,7 +140,7 @@ dependencies = [
 [[package]]
 name = "anchor-gen"
 version = "0.3.1"
-source = "git+https://github.com/zilayo/anchor-gen?rev=77d1f56#77d1f56c29efe6e71eb2143dd5272a8e3a65e5d9"
+source = "git+https://github.com/zilayo/anchor-gen?rev=9bd5f9d#9bd5f9d12ef74ddb207259e92e68e8ff2dac6171"
 dependencies = [
  "anchor-generate-cpi-crate",
  "anchor-generate-cpi-interface",
@@ -149,7 +149,7 @@ dependencies = [
 [[package]]
 name = "anchor-generate-cpi-crate"
 version = "0.3.1"
-source = "git+https://github.com/zilayo/anchor-gen?rev=77d1f56#77d1f56c29efe6e71eb2143dd5272a8e3a65e5d9"
+source = "git+https://github.com/zilayo/anchor-gen?rev=9bd5f9d#9bd5f9d12ef74ddb207259e92e68e8ff2dac6171"
 dependencies = [
  "anchor-idl",
  "syn 1.0.109",
@@ -158,7 +158,7 @@ dependencies = [
 [[package]]
 name = "anchor-generate-cpi-interface"
 version = "0.3.1"
-source = "git+https://github.com/zilayo/anchor-gen?rev=77d1f56#77d1f56c29efe6e71eb2143dd5272a8e3a65e5d9"
+source = "git+https://github.com/zilayo/anchor-gen?rev=9bd5f9d#9bd5f9d12ef74ddb207259e92e68e8ff2dac6171"
 dependencies = [
  "anchor-idl",
  "darling",
@@ -168,7 +168,7 @@ dependencies = [
 [[package]]
 name = "anchor-idl"
 version = "0.3.1"
-source = "git+https://github.com/zilayo/anchor-gen?rev=77d1f56#77d1f56c29efe6e71eb2143dd5272a8e3a65e5d9"
+source = "git+https://github.com/zilayo/anchor-gen?rev=9bd5f9d#9bd5f9d12ef74ddb207259e92e68e8ff2dac6171"
 dependencies = [
  "anchor-syn 0.24.2",
  "darling",
@@ -176,7 +176,6 @@ dependencies = [
  "proc-macro2",
  "quote",
  "serde_json",
- "sha2 0.9.9",
  "syn 1.0.109",
 ]
 
